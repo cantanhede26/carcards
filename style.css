@@ -1,0 +1,121 @@
+body {
+background-color:  hsl(0, 0%, 95%);
+font-size: 15px;
+}
+h1{
+    font-family: LEXEND DECA;
+color: hsl(0, 0%, 95%);
+margin-top: 130px;
+margin-left: 75px;
+text-align: justifyleft;
+font-weight: 700;
+}
+p{
+    font-family: LEXEND DECA;
+    color:hsla(0, 0%, 100%, 0.75);
+    text-align: left;
+    margin-left: 75px;
+    margin-right: 50px;
+    font-weight: 400;
+}
+.icone{color: white;
+border: none;
+background: none;
+font-weight: 400;
+margin-top: 15px;
+margin-left: 30px;
+cursor: pointer;
+
+font-family: lexend deca;
+}
+#cx1{
+    position: absolute;
+    width: 310px;
+    height: 500px;
+    top: 50px;
+    left: 100px;
+    background-color: hsl(31, 77%, 52%);
+    z-index: 2;
+}
+#cx2{
+    position: absolute;
+    width: 310px;
+    height: 500px;
+    top: 50px;
+    left: 410px;
+    background-color: hsl(184, 100%, 22%)
+}
+#cx3 {
+    position: absolute;
+    width: 310px;
+    height: 500px;
+    top: 50px;
+    left: 720px;
+    background-color: hsl(179, 100%, 13%)
+}
+#cx4 {
+    position: absolute;
+    width: 150px ;
+    height: 50px;
+    left: 175px;
+    top: 450px;
+      z-index:2;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border:1px solid hsl(0, 0%, 95%)
+    
+}
+#cx5{
+    position: absolute;
+    width: 150px ;
+    height: 50px;
+    left: 485px;
+    top: 450px;
+      z-index:2;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border:1px solid hsl(0, 0%, 95%)
+}
+#cx6{
+    position: absolute;
+    width: 150px ;
+    height: 50px;
+    left: 795px;
+    top: 450px;
+      z-index:2;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border:1px solid hsl(0, 0%, 95%)
+}
+
+#cx7{
+    position:absolute;
+    width: 64px;
+    height: 40px;
+    top:100px;
+    left: 150px;
+    z-index: 2;
+
+}
+#cx8{
+    position:absolute;
+    width: 64px;
+    height: 40px;
+    top:100px;
+    left: 460px;
+    z-index: 2;
+}
+#cx9{
+    position:absolute;
+    width: 64px;
+    height: 40px;
+    top: 100px;px;
+    left: 770px;
+    z-index: 2;
+}
